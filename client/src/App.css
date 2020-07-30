@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
+
+.right {
+  display: flex;
+  justify-content: flex-end;
+}
+
+a {
+	text-decoration: none;
+}
+
+.hidden { 
+	display:none; 
+}
